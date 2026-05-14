@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Batea.Core/Batea.Core.csproj" />
+    <Project Path="src/Batea.Infrastructure/Batea.Infrastructure.csproj" />
+    <Project Path="src/Batea.Web/Batea.Web.csproj" />
+  </Folder>
+</Solution>
